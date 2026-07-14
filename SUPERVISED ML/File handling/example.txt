@@ -1,0 +1,2 @@
+hello this is  new line
+we can doboth as one with w+ metghod can read nad write ata time

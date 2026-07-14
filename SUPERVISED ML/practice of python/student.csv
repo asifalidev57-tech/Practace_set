@@ -1,0 +1,16 @@
+Student_ID,Name,Gender,Age,Math,Physics,Chemistry,Study_Hours,Attendance
+1,Ali,M,18,85,78,90,4,92
+2,Sara,F,19,92,88,95,6,96
+3,Ahmed,M,18,70,65,72,2,80
+4,Ayesha,F,20,88,91,89,5,94
+5,Hassan,M,19,60,58,62,1,75
+6,Zainab,F,18,95,97,96,7,99
+7,Usman,M,20,78,74,80,3,85
+8,Maryam,F,19,89,85,92,5,93
+9,Bilal,M,18,67,70,65,2,78
+10,Fatima,F,20,91,94,90,6,97
+11,Hamza,M,19,73,68,75,3,82
+12,Hina,F,18,86,89,84,4,91
+13,Talha,M,20,55,60,58,1,70
+14,Eman,F,19,93,95,98,7,98
+15,Daniyal,M,18,80,77,79,4,88
